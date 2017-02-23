@@ -1,0 +1,4 @@
+C:\Users\RSINGH3\Desktop\COM\ComPlusExample\ComPlusExample\bin\Release\ComPlusExample.dll
+C:\Users\RSINGH3\Desktop\COM\ComPlusExample\ComPlusExample\bin\Release\ComPlusExample.pdb
+C:\Users\RSINGH3\Desktop\COM\ComPlusExample\ComPlusExample\obj\Release\ComPlusExample.dll
+C:\Users\RSINGH3\Desktop\COM\ComPlusExample\ComPlusExample\obj\Release\ComPlusExample.pdb

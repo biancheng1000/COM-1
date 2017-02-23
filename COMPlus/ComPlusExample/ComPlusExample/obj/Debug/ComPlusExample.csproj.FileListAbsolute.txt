@@ -1,0 +1,5 @@
+C:\Users\RSINGH3\Desktop\COM\ComPlusExample\ComPlusExample\bin\Debug\ComPlusExample.dll
+C:\Users\RSINGH3\Desktop\COM\ComPlusExample\ComPlusExample\bin\Debug\ComPlusExample.pdb
+C:\Users\RSINGH3\Desktop\COM\ComPlusExample\ComPlusExample\obj\Debug\ComPlusExample.csprojResolveAssemblyReference.cache
+C:\Users\RSINGH3\Desktop\COM\ComPlusExample\ComPlusExample\obj\Debug\ComPlusExample.dll
+C:\Users\RSINGH3\Desktop\COM\ComPlusExample\ComPlusExample\obj\Debug\ComPlusExample.pdb
